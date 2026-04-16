@@ -8,6 +8,5 @@ int main() {
             printf("%p\n", (void*)&arr[i][j]);
         }
     }
-
     printf("\n");
 }
